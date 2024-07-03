@@ -1,3 +1,5 @@
+**THIS IS ARCHIVED OLD VERSION OF MY CURRENT ABOUT-ME REPOSITORY KotvicCodes/KotvicCodes, FOR UP TO DATE INFORMATION PLEASE VISIT THE PROPPER REPOSITORY**
+
 # Hey there
 
 ## who am I
@@ -19,6 +21,3 @@ You can check it out but as of today it is still in beta version, so you can gen
 ## what have I done
 I have already made 2 websites, 1 for an metal festival called [Monster of Metal](https://www.monsterofmetal.cz) which is live and second for a local printing office which has not been published yet.  
 I have also made plenty of helpful tool for myself and my friends, such as quadratic equation solver which you can find in [Mathemizer repository](https://github.com/KotvicCodes/Mathemizer).
-
-### Remember, you can always message me if you feel like it!
-Discord: .kotvic
